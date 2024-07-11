@@ -1,1 +1,2 @@
-![image](https://github.com/PranavRao30/4D-ADA-1BM22CS201/assets/153255083/07a46c21-de0e-4756-81e5-0a42bf9f5eba)
+Djikstra: ![image](https://github.com/PranavRao30/4D-ADA-1BM22CS201/assets/153255083/07a46c21-de0e-4756-81e5-0a42bf9f5eba)
+Kruskal: ![image](https://github.com/PranavRao30/4D-ADA-1BM22CS201/assets/153255083/e003803a-0b31-4ca4-880e-3df213bcc9b7)
